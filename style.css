@@ -10,7 +10,6 @@ body{
 #navbar{ 
   background: #333;
   color: #fff;
-  overflow: auto;
 }
 
 .container{
@@ -22,8 +21,7 @@ body{
 
 #navbar h1{
   float: left;
-  padding-top: 20px;
-  vertical-align: auto;
+  padding: 20px;
 }
 
 #navbar a{
@@ -34,7 +32,7 @@ body{
 #navbar ul {
   list-style: none;
   float: right;
-  vertical-align: auto;
+  padding-top: 7px;
 }
 
 #navbar ul li {
@@ -45,7 +43,4 @@ body{
 padding: 20px;
 display: block;
 text-align: center;
-  /* color: #fff;
-  text-decoration: none;
-  padding: 10px 10px; */
 }
