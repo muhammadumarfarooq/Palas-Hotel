@@ -50,3 +50,44 @@
 .form-container button:hover{
   background: #f7c08a;
 }
+
+
+.bg-dark {
+  background: #333;
+  color: #fff;
+}
+
+.container-contact{
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 20px;
+}
+
+.box{
+  
+float: left;
+width: 33.3%;
+padding: 50px;
+text-align: center;
+}
+
+/* 
+#contact-info{
+  background: #222;
+  color: #fff;
+}
+ 
+
+#contact-info div{
+ display: inline-block;
+ width: 33%;
+} 
+
+#contact-info div h3{
+  padding-bottom: 20px;
+}
+
+#contact-info div p{
+  margin: 10px 0;
+} */
