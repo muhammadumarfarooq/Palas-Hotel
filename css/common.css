@@ -15,8 +15,8 @@ body{
 }
 
 .container{
-  margin: auto;
   max-width: 1100px;
+  margin: auto;
   overflow: auto;
   padding: 0 20px;
 }
@@ -46,14 +46,21 @@ body{
   text-align: center;
 }
 
-.navbar-items li a:hover{
+.navbar-items li a:hover,
+.navbar-items li a.current{
   background: #444;
-    color: #f7c08a;
+  color: #f7c08a;
 }
 
 .text-primary {
   color: #f7c08a;
 }
+
+p {
+  line-height: 1.5em;
+  margin: 20px;
+  color: #333;
+} 
 
 /* Footer */
 
@@ -61,6 +68,9 @@ body{
 #main-footer{
   padding: 30px;
   background: #222;
-  color: #fff;
+}
+
+#main-footer p{
   text-align: center;
+  color: #fff;
 }
