@@ -47,7 +47,7 @@
 
 #guests{
   height: 600px;
-  background: url("/assets/test-bg.jpg");
+  background: url("../assets/test-bg.jpg");
   background-position: center;
   background-size: cover;
  

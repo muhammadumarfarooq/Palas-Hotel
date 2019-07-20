@@ -63,7 +63,7 @@
 }
 
 .hotel-history__img{
-  background-image: url("/assets/photo-1.jpg");
+  background-image: url("../assets/photo-1.jpg");
   width: 50%;
   height: 100%;
   float: left;
