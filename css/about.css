@@ -41,10 +41,9 @@
 }
 
 #guests{
-  height: 600px;
-  background: url("../assets/test-bg.jpg");
-  background-position: center;
-  background-size: cover;
+   background: url("../assets/test-bg.jpg") center center/cover;
+  /*background-position: center;
+  background-size: cover; */
  
   /* overflow: auto; */
 }
