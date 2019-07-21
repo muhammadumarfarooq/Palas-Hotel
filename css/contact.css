@@ -1,20 +1,12 @@
 #contact-form{
   padding: 30px;
+  height: 120vh;
 }
 
-/* .form-container{
-  max-width: 1100px;
-  margin: auto;
-  padding: 30px;
- 
-} */
+
 
 #contact-form h1{
   font-size: 40px;
-  line-height: 2.5em;
-}
-
-#contact-form h1{
   line-height: 2.5em;
 }
 
@@ -36,7 +28,6 @@
   border-color: #f7c08a;
 }
 
-
 .form-group label{
   display: block;
 }
@@ -50,15 +41,14 @@
   cursor: pointer
 }
 
-
 #contact-form button:hover{
   background: #f7c08a;
 }
 
-
 .bg-dark {
   background: #333;
   color: #fff;
+  height: 40vh;
 }
 
 .box{
@@ -77,30 +67,3 @@
   padding-top: 30px;
   color: #fff;
 } 
-
-
-
-
-
-
-
-
-/* 
-#contact-info{
-  background: #222;
-  color: #fff;
-}
- 
-
-#contact-info div{
- display: inline-block;
- width: 33%;
-} 
-
-#contact-info div h3{
-  padding-bottom: 20px;
-}
-
-#contact-info div p{
-  margin: 10px 0;
-} */
