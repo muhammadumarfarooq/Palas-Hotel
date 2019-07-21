@@ -171,3 +171,20 @@ h3{
   display: block;
 }
 
+/* =============================================================
+          Comtact Page
+=================================================================*/
+
+.box{
+  width: 100%;
+  border-bottom: 1px #ddd dotted;
+}
+
+.box h3{
+  padding-top: 20px;
+}
+
+
+.box p{
+  padding-top: 10px;
+} 
